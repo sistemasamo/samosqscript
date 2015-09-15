@@ -2,7 +2,10 @@
 Biblioteca desenvolvida em javascript para melhorar o desenvolvimento de script SQlite em ferramenta Online e Offline
 
 ## Como usar
-Inclua na tag `head` o seguinte código `<script type="text/javascript" src="com.sistemasamo.js"></script>`
+Inclua na tag `head` o seguinte código:
+```
+<script type="text/javascript" src="com.sistemasamo.js"></script>
+```
 
 ## Exemplos do biblioteca
 * Inicialização
@@ -13,7 +16,6 @@ Inclua na tag `head` o seguinte código `<script type="text/javascript" src="com
 * Joins
 * Create Table
 * Modify Table
-* 
 
 ## Inicialização
 `var objDatabase = new sqlLite();`
@@ -62,5 +64,9 @@ objLancamento.update(function(){
 });
 ```
 
+## Autor
+Bruno Alves 
+* Email: <contato@alvesbruno.com> <alvesbruno@r7.com>
+* Twitter: [@desenvolvimento](https://twitter.com/desenvolvimento)
 
 
